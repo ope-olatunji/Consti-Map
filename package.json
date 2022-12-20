@@ -1,6 +1,6 @@
 {
-  "name": "amplify-app",
-  "version": "0.1.0",
+  "name": "Consti-Map",
+  "version": "1.0",
   "private": true,
   "dependencies": {
     "@aws-amplify/ui-react": "^4.2.1",
